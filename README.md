@@ -9,10 +9,9 @@
 - Pycharm
 - Github account
 
-## Things I Learned
-- print('text')
-- text = input('prompt for user')
-- strings are combined via +
+## Reflection
+- I learned that coding can be fun
+- I learned that iterating on simple concepts can be a productive and enjoyable learning experience
 
 ## Resources
 | <a href="https://github.com/mikeckennedy/python-jumpstart-course-demos" target="_blank">**Talk Python to Me - Building 10 Apps Course**</a> |
