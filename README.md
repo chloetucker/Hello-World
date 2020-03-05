@@ -10,8 +10,7 @@
 - Github account
 
 ## Reflection
-- I learned that coding can be fun
-- I learned that iterating on simple concepts can be a productive and enjoyable learning experience
+- I learned that making something very simple can also be very satisfying
 
 ## Resources
 | <a href="https://github.com/mikeckennedy/python-jumpstart-course-demos" target="_blank">**Talk Python to Me - Building 10 Apps Course**</a> |
